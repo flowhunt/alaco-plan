@@ -1,0 +1,28 @@
+﻿country,languages,phase,rule
+Rakúsko,de,1,Nemecká verzia; lokálne obchodné a dodacie údaje len ak skutočné.
+Belgicko,"nl, fr, de",2–3,Jazyk vyberá návštevník; nevytvárať jednu automatickú belgickú kópiu.
+Bulharsko,bg,3,Odborný preklad a obsluha dopytov pred spustením.
+Chorvátsko,hr,3,"Lokalizovať RFQ a dokumenty, nie iba homepage."
+Cyprus,"el, en",3,Gréčtina; angličtina pre medzinárodné firmy. Turečtina len ako voliteľný biznis jazyk mimo 24 úradných jazykov EÚ.
+Česko,cs,2,"Vlastná terminológia, nepublikovať slovenský text pod /cs/."
+Dánsko,"da, en",3,Dánčina podľa pipeline; angličtina ako explicitná alternatíva.
+Estónsko,"et, en",3,Odborná lokalizácia a zrozumiteľný kontakt.
+Fínsko,"fi, sv, en",3,Fínčina a dostupná švédčina; neautomatizovať regionálne presmerovanie.
+Francúzsko,fr,2,Francúzska technická terminológia a komunikácia.
+Nemecko,de,1,Audit existujúceho alaco.de; zachovať signály pri migrácii.
+Grécko,el,3,Grécke rozhranie a dopytový proces.
+Maďarsko,hu,2,Terminológia schválená technickým prekladateľom.
+Írsko,"en, ga",1 / 4,Angličtina primárne; írčina neskôr po obchodnom odôvodnení.
+Taliansko,it,2,Lokalizovať príklady a technické podklady.
+Lotyšsko,lv,3,Podľa overených možností jazykovej podpory.
+Litva,lt,3,Podľa overených možností jazykovej podpory.
+Luxembursko,"fr, de",2,"Francúzština/nemčina; luxemburčina voliteľne, nie je jedným z 24 úradných jazykov EÚ."
+Malta,"en, mt",1 / 4,Angličtina primárne; maltčina v neskorej fáze.
+Holandsko,"nl, en",3,Holandská obchodná verzia podľa pipeline.
+Poľsko,pl,2,Poľská terminológia a plnohodnotný RFQ.
+Portugalsko,pt,3,Európska portugalčina; nepoužiť bez kontroly brazílsku lokalizáciu.
+Rumunsko,ro,3,Kompletná prioritná obchodná cesta pred glosárom.
+Slovensko,sk,1,Existujúci koreň /; hlavný zdroj technických faktov.
+Slovinsko,sl,3,Nezamieňať jazykový kód sl so Slovenskom.
+Španielsko,es,3,Španielčina; regionálne jazyky voliteľne pri dopyte.
+Švédsko,sv,3,Švédska verzia a obchodná podpora.
